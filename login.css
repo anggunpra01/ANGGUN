@@ -1,0 +1,133 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #8E806A;
+}
+.container1{
+    position: absolute;
+    width: 405px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;  
+    background: #C3B091;
+}
+.capt{
+    position: absolute;
+width: 263px;
+height: 42px;
+left: 41px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+.logo1{
+position: absolute;
+width: 227px;
+height: 210px;
+left: 59px;
+top: 93px;
+
+}
+.container2{
+    position: absolute;
+width: 227px;
+height: 52px;
+left: 59px;
+top: 348px;
+
+background: #C4C4C4;
+border-radius: 45px;
+}
+.capt2{
+    position: absolute;
+width: 109px;
+height: 21px;
+left: 118px;
+top: 364px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.container3{
+    position: absolute;
+width: 405px;
+height: 71px;
+left: 0px;
+top: 441px;
+
+background: #C4C4C4;
+}
+.capt3{
+    position: absolute;
+width: 74px;
+height: 21px;
+left: 118px;
+top: 463px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.chat{
+    position: absolute;
+width: 57px;
+left: 31px;
+top: 450px;
+border-radius: 0px;
+}
+.container4{
+    position: absolute;
+width: 405px;
+height: 78px;
+left: 0px;
+top: 553px;
+
+background: #C4C4C4;
+}
+.notification{
+    position: absolute;
+    height: 57px;
+width: 57px;
+left: 31px;
+top: 560px;
+border-radius: 0px;
+
+}
+.capt4{
+    position: absolute;
+width: 105px;
+height: 21px;
+left: 118px;
+top: 580px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
